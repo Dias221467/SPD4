@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface ScoreboardDisplay {
+interface ScoreboardDisplay {
+    // Display method
 }
